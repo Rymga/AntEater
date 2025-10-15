@@ -1,0 +1,7 @@
+{
+  "name": "AntEater",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
